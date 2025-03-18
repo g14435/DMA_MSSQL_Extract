@@ -1,4 +1,4 @@
-#   Vversion version 1.1.0 date 18032025/Michael Hesselberg/Aaahish Jain
+#   Version version 1.1.0 date 18032025/Michael Hesselberg/Aaahish Jain
 #   PowerShell Script Documentation
 #   Support MSSQL versions 2012, 2016, 2017 (to be tested 2008R2, 2014, 2019, 2022)
 #   Changelog date/change/changed by
